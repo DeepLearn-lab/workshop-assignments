@@ -26,7 +26,7 @@ $ git clone https://github.com/your_username/workshop-assignments.git
 
 ### Assignment Additions
 
-- Go to **week1/assignments** directory.
+- Go to **assignments** directory.
 - Make a new folder with as *your-name_rollno*.
 
 Example:
